@@ -10,3 +10,7 @@
 * tcc (for testing)
 * clang (for llvm compatibility)
 * nasm (for assembly)
+
+# Hypervisors we ue
+* Virtualbox
+* Gnome boxes
