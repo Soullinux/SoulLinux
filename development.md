@@ -12,6 +12,5 @@
 * nasm (for assembly)
 
 # Hypervisors we ue
-* Oracle VM Virtualbox
 * Gnome boxes
 * QEMU (for testing assembly binaries)
