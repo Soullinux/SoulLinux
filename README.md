@@ -3,7 +3,7 @@
 A lightweight, fast, Secure and hybrid base Linux distro.
 
 # Our aim
-Our aim is to make Linux popular and stable as a Desktop operating system. We deliver enterprise level security to Desktop users. Linux was initially made to be a Desktop OS, but due to it's secure and lightweight nature has become a Server OS. We are hoping to make Linux the best Desktop Operating System. And show the world that Linux can be just as good as a Desktop os. We are not trying to compete with Windows or Mac but we want to get Linux the same popularity as these both operating systems.
+Our aim is to make Linux popular and stable as a Desktop operating system. We deliver enterprise level security to Desktop users. Linux was initially made to be a Desktop OS, but due to it's secure and lightweight nature has become a Server OS. We are hoping to make Linux the best Desktop Operating System. And show the world that Linux can be just as good as a Desktop os. We are not trying to compete with Windows or Mac but we want to get Linux the same popularity as these both operating systems. Our source code is available on Github and Gitlab.
 
 # The development team
 
