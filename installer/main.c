@@ -8,9 +8,6 @@ Soul Linux CLI installer
 #include <unistd.h>
 #include <string.h>
 
-// using a enum for Debian and Arch Linux
-enum distro = {Deb = 0, Arch = 1};
-
 // Defining a struct to get the info of the base chosen by the user
 struct base {
     char * name;
@@ -133,10 +130,12 @@ int formating(char * fmtprog) {
             return 0;
         }
     } else if(strcmp(fmtprog, "efdisk")==0){
+        int short i;
         for(i=0;i<1;i++){
             return 0;
         }
     } else {
+        int short i;
         for(i=0;i<1;i++){
             return 0;
         }
