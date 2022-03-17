@@ -4,3 +4,9 @@
 * Visaul studio code (main)
 * Vim (for writting assembly)
 * Sublime text (backup)
+
+# Compilers we use
+* Gcc (for making 32 and 64 bit binaries)
+* tcc (for testing)
+* clang (for llvm compatibility)
+* nasm (for assembly)
