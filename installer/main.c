@@ -8,6 +8,9 @@ Soul Linux CLI installer
 #include <unistd.h>
 #include <string.h>
 
+#define Author_name Venkatesh Mishra
+#define Project_name Soul Linux
+
 // Defining a struct to get the info of the base chosen by the user
 struct base {
     char * name;
